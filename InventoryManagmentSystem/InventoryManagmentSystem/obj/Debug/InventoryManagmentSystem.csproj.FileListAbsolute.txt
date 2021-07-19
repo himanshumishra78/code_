@@ -1,0 +1,14 @@
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\InventoryManagmentSystem.exe.config
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\InventoryManagmentSystem.exe
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\InventoryManagmentSystem.pdb
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csprojAssemblyReference.cache
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.Form1.resources
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.Properties.Resources.resources
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csproj.GenerateResource.cache
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.exe
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.pdb
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.CarsDemo.resources
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.billing.resources
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.Employees.resources
+C:\Users\tech\source\repos\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.Stocks.resources
